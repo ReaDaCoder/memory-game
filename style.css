@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+.col {
+    margin-bottom: 50px;
+  }
+img{
+    width: 150px;
+    margin-bottom: 50px;
+    border-radius: 20px;
+}
