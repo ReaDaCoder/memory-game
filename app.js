@@ -1,4 +1,4 @@
-let cards = [
+const cards = [
     { name: "Object1", image: "path/to/cardA.JPG" },
     { name: "Object2", image: "path/to/cardA.JPG" },
     { name: "Object1", image: "path/to/cardB.JPG" },
@@ -16,3 +16,4 @@ let cards = [
     { name: "Object1", image: "path/to/cardH.JPG" },
     { name: "Object2", image: "path/to/cardH.JPG" },
   ];
+  const cardCount = cards.length;

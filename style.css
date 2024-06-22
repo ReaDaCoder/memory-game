@@ -13,6 +13,11 @@ h1{
 .container{
     display: flex;
     justify-content: space-around;
+    padding: 0 auto;
+    margin: 0;
+    border: #662627;
+    border-style: solid;
+    border-radius: 30px;
 }
 .col {
     margin-bottom: 50px;
